@@ -1,0 +1,16 @@
+{
+  "name": "ai-resume-workspace",
+  "private": true,
+  "workspaces": [
+    "Frontend",
+    "Backend"
+  ],
+  "scripts": {
+    "frontend": "npm run dev --workspace=Frontend",
+    "backend": "npm run dev --workspace=Backend",
+    "dev": "concurrently \"npm run frontend\" \"npm run backend\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
