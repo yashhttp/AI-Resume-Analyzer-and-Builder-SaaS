@@ -2,7 +2,7 @@ export const renderSidebar = (activeItem) => {
   const user = {
     name: localStorage.getItem('userName') || 'Demo User',
     email: localStorage.getItem('userEmail') || 'demo@example.com'
-  };
+  }; 
 
   const userRole = localStorage.getItem('userRole') || 'user';
 
