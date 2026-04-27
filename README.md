@@ -36,6 +36,9 @@ A full-stack **AI-powered Resume Analyzer + Resume Builder SaaS platform** built
 * Bcrypt (Password Hashing)
 * Multer (File Upload)
 * Cloudinary (File Storage)
+* axios
+* cors
+* dotenv
 
 ## 🔹 AI Integration
 
@@ -43,36 +46,14 @@ A full-stack **AI-powered Resume Analyzer + Resume Builder SaaS platform** built
 
 ## 🔹 Payments
 
-* Razorpay
+* Razorpay only
 
 ## 🔹 Deployment
 
 * Render (Backend)
 * MongoDB Atlas
 
----
 
-# 📁 Project Structure
-
-```
-project-root/
-│
-├── frontend/
-│   ├── src/
-│   ├── components/
-│   └── pages/
-│
-├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│   ├── utils/
-│   ├── config/
-│   └── server.js
-│
-└── README.md
-```
 
 ---
 
