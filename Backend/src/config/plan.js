@@ -1,0 +1,5 @@
+export const PLAN_MAP = {
+  WEEKLY: process.env.RAZORPAY_WEEKLY_PLAN_ID,
+  MONTHLY: process.env.RAZORPAY_MONTHLY_PLAN_ID,
+  YEARLY: process.env.RAZORPAY_YEARLY_PLAN_ID,
+};
