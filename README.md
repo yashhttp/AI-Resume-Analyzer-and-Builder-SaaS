@@ -50,7 +50,7 @@ A full-stack **AI-powered Resume Analyzer + Resume Builder SaaS platform** built
 * Razorpay only
 
 ## 🔹 Deployment
-
+* Vercel
 * Render (Backend)
 * MongoDB Atlas
 
