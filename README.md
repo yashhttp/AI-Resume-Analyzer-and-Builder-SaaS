@@ -6,7 +6,6 @@ A full-stack **AI-powered Resume Analyzer + Resume Builder SaaS platform** built
 
 # 🌐 Live Features
 
-
 ✨ Build Resume from  scratch
 ✨ AI Resume Analysis (ATS Score, Strengths, Weaknesses)
 ✨ PDF Export
