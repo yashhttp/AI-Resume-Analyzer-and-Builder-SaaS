@@ -208,6 +208,7 @@ npm run dev
 
 * Free plan (limited usage)
 * Paid plans (unlimited features)
+* Enjoy plan 
 
 ---
 
